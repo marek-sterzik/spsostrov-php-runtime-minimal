@@ -1,4 +1,2 @@
 #!/bin/bash
 
-yarn install
-lib/jscompile

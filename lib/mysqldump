@@ -1,3 +1,0 @@
-#!/bin/bash
-
-mysqldump "$@" 2> /dev/null
