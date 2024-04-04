@@ -32,7 +32,6 @@ docker_configure() {
 }
 
 do_initialize_deploy() {
-    lib/invoke node bash scripts/initialize-node "$@"
     lib/invoke deploy bash scripts/initialize-deploy "$@"
 }
 
