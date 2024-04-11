@@ -1,0 +1,5 @@
+{
+    "require": {
+        "spsostrov/libsso": "^1.3"
+    }
+}

@@ -1,0 +1,6 @@
+
+* {margin: 0; padding: 0;}
+header {padding: 1em; text-align: right; background-color: lightblue;}
+header a {color: #505050; text-decoration: none;}
+header a:hover {text-decoration: underline;}
+.sso_user_table {margin: 1em auto;}

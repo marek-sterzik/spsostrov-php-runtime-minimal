@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "cb69d90899062504b34e392409149cdd",
+    "packages": [
+        {
+            "name": "spsostrov/libsso",
+            "version": "v1.3.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/marek-sterzik/spsostrov-libsso.git",
+                "reference": "80fdcc73aa93ffb44126141b869a3ea059e7aba1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/marek-sterzik/spsostrov-libsso/zipball/80fdcc73aa93ffb44126141b869a3ea059e7aba1",
+                "reference": "80fdcc73aa93ffb44126141b869a3ea059e7aba1",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "SPSOstrov\\SSO\\": "lib/classes"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Marek Sterzik",
+                    "email": "sterzik@spsostrov.cz"
+                }
+            ],
+            "description": "The SPŠ Ostrov school's SSO library",
+            "homepage": "https://github.com/marek-sterzik/spsostrov-libsso",
+            "support": {
+                "issues": "https://github.com/marek-sterzik/spsostrov-libsso/issues",
+                "source": "https://github.com/marek-sterzik/spsostrov-libsso/tree/v1.3.4"
+            },
+            "time": "2023-12-06T10:54:20+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
