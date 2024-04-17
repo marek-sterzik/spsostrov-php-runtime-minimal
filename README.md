@@ -119,7 +119,6 @@ Celé prosředí obsahuje tyto adresáře:
 * `public` - obsahuje soubory, které jsou přímo viditelné přes webový server (statické soubory)
 * `scripts` - obsahuje skripty, které se používají ke konfiguraci a inicializaci prostředí. (do obou skriptů je možné přidávat další funkce)
 * `src` - obsahuje zdrojový kód celé aplikace
-* `templates` - může obsahovat různé šablony pro vytváření obsahu (v základní verzi prostředí není význam nijak definován)
 * `vendor` - o tento adresář se stará composer a nemělo by se do něj zasahovat ručně, pouze voláním composeru.
 
 Dále pak obsahuje tyto soubory:
